@@ -1,2 +1,1 @@
-# vape
-just some info
+# [vape.nanick.org](https://vape.nanick.org)  
